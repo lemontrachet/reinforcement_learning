@@ -1,3 +1,5 @@
-# reinforcement_learning
+reinforcement_learning
 
-Using the bokeh library to illustrate a very simple DQN. The green line learns to stay inside the red lines.
+dqn_bokeh: Using the bokeh library to illustrate a very simple DQN. The green line learns to stay inside the red lines.
+
+catpole_pg: solving cartpole problem with policy gradients
