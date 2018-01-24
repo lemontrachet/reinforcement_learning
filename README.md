@@ -7,3 +7,5 @@ catpole_pg: solving cartpole problem with policy gradients
 Mountain.ipynb: solving the mountain car problem with a DQN.
 
 asyncDQN.py: a multi-threaded, asynchronous application of Deep Q-Learning. Each local model adds experience to a shared queue, from which the global model learns. The local models update their weights from the global model from time to time. Uses the Keras library.
+
+asyncDQN playing snake: https://www.youtube.com/watch?v=oRUB1Dh2Np8&feature=youtu.be
